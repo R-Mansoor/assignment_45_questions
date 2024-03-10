@@ -1,0 +1,4 @@
+"use strict";
+var p_name = "\t Eric \n";
+console.log(p_name);
+console.log(p_name.trim());

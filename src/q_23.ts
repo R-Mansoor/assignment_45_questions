@@ -1,0 +1,21 @@
+let car:string = "Subaru";
+let bike:string = "Honda";
+let rocket:string = "Space_x";
+let ev:string = "tesla";
+let bezos:string = "billionare";
+let ceo:string = "mark_zukerberg";
+let sunflower:string = "yellow";
+let moonlanding:string = "fake";
+let earth:string = "flat";
+let biden:string = "sleepy_joe";
+
+console.log(car=="Subaru"?true:false);
+console.log(bike=="hyundai"?true:false);
+console.log(rocket=="nasa"?true:false);
+console.log(ev=="toyota"?true:false);
+console.log(bezos!="millinare"?true:false);
+console.log(ceo!="walnut"?true:false);
+console.log(sunflower=="red"?true:false);
+console.log(moonlanding!="real"?true:false);
+console.log(earth=="round"?true:false);
+console.log(biden!="president"?true:false);
